@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 19/03/2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -38,15 +38,16 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
-
 ## Output:
+<img width="1071" height="656" alt="Screenshot 2026-03-19 110152" src="https://github.com/user-attachments/assets/ae6239a2-49c2-4582-b060-157ee0bc7f2a" />
+<img width="1028" height="607" alt="Screenshot 2026-03-19 110202" src="https://github.com/user-attachments/assets/c9234604-427b-4dcd-9b16-44b785bd88f5" />
+<img width="1032" height="595" alt="Screenshot 2026-03-19 110208" src="https://github.com/user-attachments/assets/99f3fac2-1245-4a77-af8c-f6e26bbc52d9" />
+<img width="1027" height="609" alt="Screenshot 2026-03-19 110220" src="https://github.com/user-attachments/assets/0504427e-aca3-4691-b23d-c2438e2acc68" />
+<img width="1067" height="561" alt="Screenshot 2026-03-19 110228" src="https://github.com/user-attachments/assets/6266b831-8b6d-4e98-9c6d-3f31e0288796" />
+<img width="1050" height="589" alt="Screenshot 2026-03-19 110238" src="https://github.com/user-attachments/assets/c186bf05-c7c0-466a-b932-d6c18da7e854" />
 
-### Name:
-### Register Number:
+### Name:S MAGESH 
+### Register Number:212225230160
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
